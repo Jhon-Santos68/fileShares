@@ -20,4 +20,5 @@
 //   console.log(`Server is listening on PORT ${PORT}`)
 // });
 
-console.log(process.env.MONGO_URL)
+
+console.log(process.env.MONGO_URL, 'ozgardi')
