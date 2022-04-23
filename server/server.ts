@@ -21,4 +21,4 @@
 // });
 
 
-console.log(process.env.MONGO_URL, 'ozgardi 2')
+console.log(process.env.MONGO_URL, 'ozgardi')
