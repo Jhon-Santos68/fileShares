@@ -28,4 +28,4 @@ app.listen(PORT, () => {
 });
 
 
-console.log(process.env.MONGO_URL, 'rozgardi')
+console.log(process.env.MONGO_URL, 'ozgardi')
